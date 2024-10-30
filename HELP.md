@@ -1,4 +1,8 @@
 # Getting Started
+<<<<<<< Updated upstream
+=======
+#Testing
+>>>>>>> Stashed changes
 
 ### Reference Documentation
 
